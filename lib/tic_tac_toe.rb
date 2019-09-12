@@ -1,4 +1,6 @@
 class TicTacToe
+
+class TicTacToe
   
 require 'pry'
 
@@ -94,9 +96,9 @@ def winner
     else
       nil
     end
-  end
 end
-end
+# end
+# end
 
 def play
   while over? == false
@@ -107,4 +109,6 @@ def play
   elsif draw?
     puts "Cat's Game!"
   end
+end
+
 end

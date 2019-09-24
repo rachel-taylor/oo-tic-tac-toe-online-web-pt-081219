@@ -1,6 +1,4 @@
 class TicTacToe
-
-class TicTacToe
   
 require 'pry'
 
